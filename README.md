@@ -14,6 +14,10 @@ git clone https://github.com/rizkypanz16/terraform-aws-ec2-multiple_instance.git
 <subnet-id>
 <keypair-name>
 ```
+- Init - Initialized terraform provider
+```
+terraform init
+```
 - Plan - Preview changes before applying.
 ```
 terraform plan
